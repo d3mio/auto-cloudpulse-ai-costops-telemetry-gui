@@ -1,0 +1,4 @@
+customtkinter>=5.1.2
+matplotlib
+numpy
+pandas
